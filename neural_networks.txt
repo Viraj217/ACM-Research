@@ -1,0 +1,12 @@
+NEURAL NETWORKS also called as SIMULATED NN/ARTIFICIAL NN
+
+NN tries to imitate the brain by finding patterns among various situations to process information and make 
+calculated outcomes which is the foundation of DL.
+
+Since they resemble the neurons in our brain they are referd as 'NEURAL'
+
+These are nodes that resemble the neurons which cluster to identify patterns in data.
+
+
+Application: This method has been used to handle difficult machine-learning issues including picture classification, 
+recommendation engines, and language-to-language translation.
